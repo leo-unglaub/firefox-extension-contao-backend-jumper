@@ -22,7 +22,7 @@
 		{
 			"name": "shortcut",
 			"title": "Shortcut",
-			"description": "The shortcut to jump into the backend.",
+			"description": "The shortcut to jump into the backend. If you change this, you have to restart your Browser for the change to take effect.",
 			"type": "string",
 			"value": "f8"
 		}
