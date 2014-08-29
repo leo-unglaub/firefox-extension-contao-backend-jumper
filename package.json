@@ -5,5 +5,7 @@
   "description": "Directly jump to the Contao backend.",
   "author": "Leo 'Batman' Unglaub",
   "license": "GPL 3.0",
-  "version": "0.1"
+  "version": "0.1",
+  "icon": "data/contao-logo-48x48.png",
+  "icon64": "data/contao-logo-64x64.png"
 }
