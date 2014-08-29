@@ -23,7 +23,7 @@
 			"title": "Shortcut",
 			"description": "The shortcut to jump into the backend.",
 			"type": "string",
-			"value": "F8"
+			"value": "f8"
 		}
 	]
 }
