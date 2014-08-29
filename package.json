@@ -9,6 +9,7 @@
 	"version": "0.1",
 	"icon": "data/contao-logo-48x48.png",
 	"icon64": "data/contao-logo-64x64.png",
+	"permissions": {"private-browsing": true},
 	"preferences":
 	[
 		{
