@@ -1,7 +1,7 @@
 {
-	"name": "contao-firefox-backend-jumper",
+	"name": "contao-backend-jumper",
 	"title": "Contao CMS - Backend jumper",
-	"id": "contao-firefox-backend-jumper",
+	"id": "contao-backend-jumper",
 	"description": "Directly jump to the Contao backend.",
 	"author": "Leo 'Batman' Unglaub",
 	"homepage": "https://bitbucket.org/leo-unglaub/contao-firefox-backend-jumper",
