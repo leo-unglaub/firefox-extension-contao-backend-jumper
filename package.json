@@ -8,5 +8,22 @@
 	"license": "GPL 3.0",
 	"version": "0.1",
 	"icon": "data/contao-logo-48x48.png",
-	"icon64": "data/contao-logo-64x64.png"
+	"icon64": "data/contao-logo-64x64.png",
+	"preferences":
+	[
+		{
+			"name": "backendPath",
+			"title": "The backend path",
+			"description": "The path to the Contao CMS backend. This path gets appended to the base url.",
+			"type": "string",
+			"value": "/contao"
+		},
+		{
+			"name": "shortcut",
+			"title": "Shortcut",
+			"description": "The shortcut to jump into the backend.",
+			"type": "string",
+			"value": "F8"
+		}
+	]
 }
