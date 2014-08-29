@@ -1,12 +1,12 @@
 {
-  "name": "contao-firefox-backend-jumper",
-  "title": "Contao CMS - Backend jumper",
-  "id": "jid1-4mxBuaZjgQ2jyg",
-  "description": "Directly jump to the Contao backend.",
-  "author": "Leo 'Batman' Unglaub",
-  "homepage": "https://bitbucket.org/leo-unglaub/contao-firefox-backend-jumper",
-  "license": "GPL 3.0",
-  "version": "0.1",
-  "icon": "data/contao-logo-48x48.png",
-  "icon64": "data/contao-logo-64x64.png"
+	"name": "contao-firefox-backend-jumper",
+	"title": "Contao CMS - Backend jumper",
+	"id": "jid1-4mxBuaZjgQ2jyg",
+	"description": "Directly jump to the Contao backend.",
+	"author": "Leo 'Batman' Unglaub",
+	"homepage": "https://bitbucket.org/leo-unglaub/contao-firefox-backend-jumper",
+	"license": "GPL 3.0",
+	"version": "0.1",
+	"icon": "data/contao-logo-48x48.png",
+	"icon64": "data/contao-logo-64x64.png"
 }
