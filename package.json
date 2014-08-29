@@ -1,0 +1,9 @@
+{
+  "name": "contao-firefox-backend-jumper",
+  "title": "Contao CMS - Backend jumper",
+  "id": "jid1-4mxBuaZjgQ2jyg",
+  "description": "Directly jump to the Contao backend.",
+  "author": "Leo 'Batman' Unglaub",
+  "license": "GPL 3.0",
+  "version": "0.1"
+}
