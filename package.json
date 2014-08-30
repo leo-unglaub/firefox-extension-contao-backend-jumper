@@ -17,7 +17,7 @@
 			"title": "The backend path",
 			"description": "The path to the Contao CMS backend. This path gets appended to the base url.",
 			"type": "string",
-			"value": "/contao"
+			"value": "/contao/main.php"
 		},
 		{
 			"name": "shortcut",
