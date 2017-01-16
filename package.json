@@ -1,7 +1,7 @@
 {
+	"id": "contao-backend-jumper",
 	"name": "contao-backend-jumper",
 	"title": "Contao CMS - Backend jumper",
-	"id": "contao-backend-jumper",
 	"description": "Directly jump to the Contao backend.",
 	"author": "Leo 'Batman' Unglaub",
 	"homepage": "https://bitbucket.org/leo-unglaub/contao-firefox-backend-jumper",
@@ -9,9 +9,10 @@
 	"version": "0.1.1",
 	"icon": "data/contao-logo-48x48.png",
 	"icon64": "data/contao-logo-64x64.png",
-	"permissions": {"private-browsing": true},
-	"preferences":
-	[
+	"permissions": {
+		"private-browsing": true
+	},
+	"preferences": [
 		{
 			"name": "backendPath",
 			"title": "The backend path",
