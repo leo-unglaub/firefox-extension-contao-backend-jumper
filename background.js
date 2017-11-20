@@ -72,7 +72,7 @@ function listenToHotkeys (command) {
 			case "open-contao-backend":
 				jumpToBackend (tabs[0]);
 				break;
-				
+
 			case "open-contao-backend-new-tab":
 				jumpToBackendNewTab (tabs[0]);
 				break;
