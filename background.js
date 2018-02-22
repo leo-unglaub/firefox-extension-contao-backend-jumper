@@ -47,6 +47,7 @@ function getNewUrl (tab) {
 	var urlBackend = new URL (tab.url);
 	urlBackend.pathname = "/contao/";
 
+
 	// return the backend url
 	return urlBackend.href;
 }
@@ -64,6 +65,7 @@ function listenToHotkeys (command) {
 	var queryOptions = {
 		active: true
 	};
+
 	var pCurrentTab = browser.tabs.query (queryOptions).then (tabs => {
 
 		// check if our command got called
